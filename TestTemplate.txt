@@ -1,0 +1,30 @@
+<body style="padding:0;margin:0;height:100vh">
+  <div style="margin:0;width:100vh;height:100vh;background-color:#b4b4b4;padding:20px">
+    <table style="width:80%;border:1px solid black; border-collapse:collapse;text-align: center; width: 90%;margin: auto">
+      <tr>
+        <th style="border: 1px solid black;border-collapse: collapse;padding:10px;color:white;background-color:#323232">Software of the month</th>
+        <th style="border: 1px solid black;border-collapse: collapse;padding:10px;color:white;background-color:#323232">Summary</th>
+        <th style="border: 1px solid black;border-collapse: collapse;padding:10px;color:white;background-color:#323232">Link</th>
+        <th style="border: 1px solid black;border-collapse: collapse;padding:10px;color:white;background-color:#323232">Logo</th>
+      </tr>
+      <tr>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc">{Name1}</td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc">{Summary1}</td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc"><a href="{Link1}">Click me!</a></td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc"><img src="{Img1}"></img></td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc">{Name2}</td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc">{Summary2}</td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc"><a href="{Link2}">Click me!</a></td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc"><img src="{Img2}"></img></td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc">{Name3}</td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc">{Summary3}</td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc"><a href="{Link3}">Click me!</a></td>
+        <td style="border: 1px solid black;border-collapse: collapse;padding: 15px;background-color:#dcdcdc"><img src="{Img3}"></img></td>
+      </tr>
+    </table>
+  </div>
+</body>
